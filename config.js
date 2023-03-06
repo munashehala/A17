@@ -10,15 +10,15 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['916297175943','919362639362']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['916297175943','919362639362']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['916297175943']
-global.BotName = "A17"
-global.packname = "A17 bot"
-global.author = "By: Kai"
-global.OwnerName = "Kai"
+global.Owner = ['917000562148','919179603804']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['917000562148','919179603804']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['917000562148']
+global.BotName = "Nobi"
+global.packname = "NOBITA bot"
+global.author = "By: NOBI"
+global.OwnerName = "NOBI"
 global.BotSourceCode = "https://github.com/Kai0071/A17"
-global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
+global.SupportGroupLink = "https://chat.whatsapp.com/J8wi30aU0c5Blkq42IvVZ4"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,8 +27,8 @@ global.prefa = ['-']
 
 
 global.location = "West Bengal, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.reactmoji = "🖤"
+global.themeemoji = "😶"
 global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' }
 global.websitex = "https://github.com/Kai0071"
 global.lolhuman = "KaysaS"
