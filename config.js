@@ -4,7 +4,7 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
@@ -21,8 +21,8 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["6288804075817"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["6288804075817"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["263788588813"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["263788588813"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["6288804075817"];
 global.OwnerName = "miracle";
 global.BotName = "A17";
